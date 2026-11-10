@@ -1,0 +1,558 @@
+.nate-login-email {
+  background-color: #ffffff;
+  width: 100%;
+  min-width: 1440px;
+  min-height: 1024px;
+  position: relative;
+}
+
+.nate-login-email .logo-concept {
+  position: absolute;
+  top: 36px;
+  left: 32px;
+  width: 164px;
+  height: 128px;
+}
+
+.nate-login-email .rectangle {
+  position: absolute;
+  top: 25px;
+  left: 12px;
+  width: 135px;
+  height: 86px;
+  background-color: #353535;
+}
+
+.nate-login-email .ellipse {
+  left: 0;
+  width: 66px;
+  height: 41px;
+  background-color: #ff3636;
+  border-radius: 33px / 20.5px;
+  position: absolute;
+  top: 0;
+}
+
+.nate-login-email .div {
+  left: 53px;
+  width: 66px;
+  height: 41px;
+  background-color: #ff3636;
+  border-radius: 33px / 20.5px;
+  position: absolute;
+  top: 0;
+}
+
+.nate-login-email .ellipse-2 {
+  left: 94px;
+  width: 66px;
+  height: 41px;
+  background-color: #ff3636;
+  border-radius: 33px / 20.5px;
+  position: absolute;
+  top: 0;
+}
+
+.nate-login-email .text-wrapper {
+  position: absolute;
+  top: 6px;
+  left: 49px;
+  -webkit-text-stroke: 2px #000000;
+  font-family: "Inria Serif-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 100px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.nate-login-email .text-wrapper-2 {
+  position: absolute;
+  top: 36px;
+  left: 56px;
+  -webkit-text-stroke: 2px #000000;
+  font-family: "Inria Serif-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 75px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.nate-login-email .text-wrapper-3 {
+  position: absolute;
+  top: 126px;
+  left: 421px;
+  font-family: "Josefin Sans-Medium", Helvetica;
+  font-weight: 500;
+  color: #f95a5a;
+  font-size: 75px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.nate-login-email .sign-in-header {
+  position: absolute;
+  top: 258px;
+  left: 471px;
+  font-family: "Josefin Sans-Medium", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 45px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.nate-login-email .text-wrapper-4 {
+  position: absolute;
+  top: 883px;
+  left: 412px;
+  font-family: "Josefin Sans-Medium", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 45px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.nate-login-email .text-wrapper-5 {
+  position: absolute;
+  top: 883px;
+  left: 641px;
+  font-family: "Josefin Sans-Medium", Helvetica;
+  font-weight: 500;
+  color: #687fff;
+  font-size: 45px;
+  letter-spacing: 0;
+  line-height: normal;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.nate-login-email .enter-email {
+  position: absolute;
+  top: 319px;
+  left: 454px;
+  width: 534px;
+  height: 67px;
+}
+
+.nate-login-email .rectangle-2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 532px;
+  height: 67px;
+  border: 5px solid;
+  border-color: #ff5858;
+}
+
+.nate-login-email .text-wrapper-6 {
+  position: absolute;
+  top: 21px;
+  left: 35px;
+  font-family: "Josefin Sans-Light", Helvetica;
+  font-weight: 300;
+  color: #000000;
+  font-size: 35px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.nate-login-email .continue {
+  position: absolute;
+  top: 402px;
+  left: 532px;
+  width: 366px;
+  height: 55px;
+}
+
+.nate-login-email .round-button {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 364px;
+  height: 55px;
+}
+
+.nate-login-email .rectangle-3 {
+  position: absolute;
+  top: 0;
+  left: 48px;
+  width: 269px;
+  height: 55px;
+  background-color: #6469ff;
+}
+
+.nate-login-email .ellipse-3 {
+  left: 0;
+  width: 95px;
+  height: 55px;
+  background-color: #6469ff;
+  border-radius: 47.6px / 27.5px;
+  position: absolute;
+  top: 0;
+}
+
+.nate-login-email .ellipse-4 {
+  left: 269px;
+  width: 95px;
+  height: 55px;
+  background-color: #6469ff;
+  border-radius: 47.6px / 27.5px;
+  position: absolute;
+  top: 0;
+}
+
+.nate-login-email .text-wrapper-7 {
+  position: absolute;
+  top: 7px;
+  left: 106px;
+  font-family: "Kantumruy Pro-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 35px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.nate-login-email .or-break {
+  position: absolute;
+  top: 514px;
+  left: 98px;
+  width: 1231px;
+  height: 55px;
+  display: flex;
+}
+
+.nate-login-email .rectangle-4 {
+  margin-top: 25px;
+  width: 552px;
+  height: 1px;
+  background-color: #000000;
+}
+
+.nate-login-email .text-wrapper-8 {
+  width: 48px;
+  height: 55px;
+  margin-left: 44px;
+  font-family: "Josefin Sans-Light", Helvetica;
+  font-weight: 300;
+  color: #000000;
+  font-size: 55px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.nate-login-email .rectangle-5 {
+  margin-top: 26px;
+  width: 552px;
+  height: 1px;
+  margin-left: 33px;
+  background-color: #000000;
+}
+
+.nate-login-email .continue-ttu {
+  position: absolute;
+  top: 626px;
+  left: 421px;
+  width: 608px;
+  height: 77px;
+}
+
+.nate-login-email .rectangle-6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 606px;
+  height: 77px;
+  background-color: #ff2f2f;
+  border: 5px solid;
+  border-color: #ffb8b8;
+}
+
+.nate-login-email .text-wrapper-9 {
+  position: absolute;
+  top: 20px;
+  left: 62px;
+  font-family: "Josefin Sans-Medium", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 38px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.nate-login-email .stay-signed-in {
+  position: absolute;
+  top: 743px;
+  left: 403px;
+  width: 300px;
+  height: 35px;
+  display: flex;
+  gap: 20px;
+}
+
+.nate-login-email .rectangle-7 {
+  width: 35px;
+  height: 35px;
+  border: 3px solid;
+  border-color: #000000;
+}
+
+.nate-login-email .text-wrapper-10 {
+  width: 243px;
+  height: 35px;
+  font-family: "Josefin Sans-Medium", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 35px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+
+/* --------------------------------------------------------------------------
+   Responsive layout overrides
+   The original export used a fixed 1440 x 1024 canvas and fixed left offsets.
+   These rules keep the same design while fitting the browser viewport.
+   -------------------------------------------------------------------------- */
+
+.nate-login-email {
+  position: relative;
+  width: 100%;
+  max-width: 1440px;
+  min-width: 0;
+  height: 100svh;
+  min-height: 0;
+  margin-inline: auto;
+  overflow: hidden;
+}
+
+.nate-login-email .logo-concept {
+  top: 36px;
+  left: clamp(16px, 2.2vw, 32px);
+}
+
+.nate-login-email .text-wrapper-3 {
+  top: 12.3%;
+  left: 50%;
+  transform: translateX(-50%);
+  max-width: calc(100% - 32px);
+  font-size: clamp(30px, 7.32vh, 75px);
+  text-align: center;
+}
+
+.nate-login-email .sign-in-header {
+  top: 25.2%;
+  left: 50%;
+  transform: translateX(-50%);
+  max-width: calc(100% - 32px);
+  font-size: clamp(23px, 4.4vh, 45px);
+  text-align: center;
+}
+
+.nate-login-email .enter-email {
+  top: 31.2%;
+  left: 50%;
+  width: min(534px, calc(100% - 48px));
+  transform: translateX(-50%);
+}
+
+.nate-login-email .rectangle-2 {
+  width: 100%;
+  height: 100%;
+}
+
+.nate-login-email .text-wrapper-6 {
+  top: 50%;
+  left: clamp(16px, 2.4vw, 35px);
+  transform: translateY(-50%);
+  font-size: clamp(18px, 3.4vh, 35px);
+}
+
+.nate-login-email .continue {
+  top: 39.3%;
+  left: 50%;
+  width: min(366px, calc(100% - 48px));
+  transform: translateX(-50%);
+}
+
+.nate-login-email .round-button {
+  width: 100%;
+}
+
+.nate-login-email .rectangle-3 {
+  left: 13.2%;
+  width: 73.6%;
+}
+
+.nate-login-email .ellipse-3 {
+  width: 26.1%;
+}
+
+.nate-login-email .ellipse-4 {
+  left: 73.9%;
+  width: 26.1%;
+}
+
+.nate-login-email .text-wrapper-7 {
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: clamp(18px, 3.4vh, 35px);
+}
+
+.nate-login-email .or-break {
+  top: 50.2%;
+  left: 50%;
+  width: min(1231px, calc(100% - 64px));
+  height: clamp(36px, 5.4vh, 55px);
+  transform: translateX(-50%);
+  align-items: center;
+}
+
+.nate-login-email .rectangle-4,
+.nate-login-email .rectangle-5 {
+  flex: 1 1 0;
+  width: auto;
+  min-width: 0;
+  height: 1px;
+  margin: 0;
+}
+
+.nate-login-email .text-wrapper-8 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  margin: 0 clamp(12px, 3vw, 44px);
+  font-size: clamp(24px, 5.4vh, 55px);
+}
+
+.nate-login-email .continue-ttu {
+  top: 61.1%;
+  left: 50%;
+  width: min(608px, calc(100% - 48px));
+  height: clamp(56px, 7.5vh, 77px);
+  transform: translateX(-50%);
+}
+
+.nate-login-email .rectangle-6 {
+  width: 100%;
+  height: 100%;
+}
+
+.nate-login-email .text-wrapper-9 {
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  max-width: calc(100% - 24px);
+  font-size: clamp(20px, 3.7vh, 38px);
+  text-align: center;
+}
+
+.nate-login-email .stay-signed-in {
+  top: 72.6%;
+  left: 50%;
+  width: max-content;
+  max-width: calc(100% - 32px);
+  height: auto;
+  transform: translateX(-50%);
+  align-items: center;
+  gap: clamp(12px, 1.4vw, 20px);
+}
+
+.nate-login-email .rectangle-7 {
+  flex: 0 0 auto;
+  width: clamp(24px, 3.4vh, 35px);
+  height: clamp(24px, 3.4vh, 35px);
+}
+
+.nate-login-email .text-wrapper-10 {
+  width: auto;
+  height: auto;
+  font-size: clamp(18px, 3.4vh, 35px);
+}
+
+.nate-login-email .signup-prompt {
+  position: absolute;
+  top: 86.2%;
+  left: 50%;
+  display: flex;
+  align-items: baseline;
+  justify-content: center;
+  gap: clamp(8px, 1.6vw, 24px);
+  max-width: calc(100% - 32px);
+  transform: translateX(-50%);
+  white-space: nowrap;
+}
+
+.nate-login-email .signup-prompt .text-wrapper-4,
+.nate-login-email .signup-prompt .text-wrapper-5 {
+  position: static;
+  font-size: clamp(18px, 4.4vh, 45px);
+}
+
+@media (max-width: 520px) {
+  .nate-login-email .logo-concept {
+    top: 18px;
+    transform: scale(0.72);
+    transform-origin: top left;
+  }
+
+  .nate-login-email .text-wrapper-3 {
+    top: 15%;
+    font-size: clamp(28px, 7.5vw, 40px);
+  }
+
+  .nate-login-email .sign-in-header {
+    top: 26%;
+    font-size: clamp(20px, 5.4vw, 28px);
+  }
+
+  .nate-login-email .enter-email {
+    top: 33%;
+  }
+
+  .nate-login-email .continue {
+    top: 42%;
+  }
+
+  .nate-login-email .or-break {
+    top: 53%;
+    width: calc(100% - 40px);
+  }
+
+  .nate-login-email .continue-ttu {
+    top: 64%;
+    width: calc(100% - 40px);
+  }
+
+  .nate-login-email .text-wrapper-9 {
+    font-size: clamp(16px, 4.4vw, 22px);
+  }
+
+  .nate-login-email .stay-signed-in {
+    top: 76%;
+  }
+
+  .nate-login-email .signup-prompt {
+    top: 88%;
+    gap: 8px;
+  }
+
+  .nate-login-email .signup-prompt .text-wrapper-4,
+  .nate-login-email .signup-prompt .text-wrapper-5 {
+    font-size: clamp(16px, 4.5vw, 22px);
+  }
+}
